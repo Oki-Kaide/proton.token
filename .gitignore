@@ -1,0 +1,45 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.cmake
+
+CMakeCache.txt
+MakeFile
+CMakeFiles/
+contracts/CMakeFiles/
+contracts/proton.token/CMakeFiles/
+contracts/proton.token/ricardian/proton.token.contracts.md
+contracts_project-prefix/
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+build/
+.DS_Store
+.vscode
